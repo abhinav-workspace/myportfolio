@@ -13,7 +13,7 @@
     "reactstrap": "^8.0.0",
     "wowjs": "^1.1.3"
   },
-  "homepage": "https://abhinav-workspace.github.io/myportfolio",
+  "homepage": "https://abhinav-workspace.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
